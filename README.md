@@ -1,5 +1,5 @@
 # pills
-OmegaLinux NEXT "Pills" package repository, mainly used in the archiso configs
+OmegaLinux NEXT "Pills" package repository
 # Setting up
 Add this to your pacman.conf file, specially right above the main repos:
 ```
